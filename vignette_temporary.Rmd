@@ -1,0 +1,42 @@
+---
+title: "Logistic Normal R package vignette"
+output:
+    html_document
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) vignette for the package LogisticNoRmal.
+
+
+```{r}
+library(LogisticNoRmal)
+library(MCMCpack)
+library(compositions)
+library(MASS)
+```
+
+
+We simulate data that lie on the simplex:
+```{r}
+X = MCMCpack::rdirichlet(1000, c(0.3, 0.5, 3))
+```
+
+```{r}
+plot(acomp(X))
+```
+
+Fit a logistic normal distribution. The inferred parameters are n mean values (for each of the $n$ parts of the composition) and an $n\times n$ covariance matrix.
+
+```{r}
+fit_LN = fit_logistic_normal(x = X)
+fit_LN
+```
+
+
+To sample from the distribution (with parameters as inferred), we can use `fit_LN`.
+
+```{r}
+intances_LN = 
+plot(acomp(X_instances))
+
+```
+

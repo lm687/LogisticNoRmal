@@ -1,0 +1,16 @@
+Package: LogisticNoRmal
+Type: Package
+Title: Logistic Normal Parameter Estimation and Sampling
+Version: 0.1.0
+Author: Lena Morrill
+Maintainer: Lena Morrill <lmorrill@cantab.net>
+Description: MLE parameter estimation for the logistic normal distribution, generation of logistic normal-distributed random number vectors and computation of logistic normal probabilities.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    MASS
+Suggests:
+    dplyr,
+    MCMCpack,
+    compositions

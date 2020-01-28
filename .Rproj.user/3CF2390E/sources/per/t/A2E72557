@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580211700275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4075916585",
+    "id" : "A2E72557",
+    "lastKnownWriteTime" : 1580211794,
+    "last_content_update" : 1580211794258,
+    "path" : "~/Documents/PhD/other_repos/LogisticNoRmal/man/main.Rd",
+    "project_path" : "man/main.Rd",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

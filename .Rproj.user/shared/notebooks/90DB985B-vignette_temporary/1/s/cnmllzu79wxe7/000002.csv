@@ -1,0 +1,1 @@
+"0","X = MCMCpack::rdirichlet(1000, c(0.3, 0.5, 3))"

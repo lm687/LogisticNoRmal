@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580209639552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "737295923",
+    "id" : "702AABA1",
+    "lastKnownWriteTime" : 1580212824,
+    "last_content_update" : 1580212824446,
+    "path" : "~/Documents/PhD/other_repos/LogisticNoRmal/vignette_temporary.Rmd",
+    "project_path" : "vignette_temporary.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "12,0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
